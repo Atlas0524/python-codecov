@@ -1,2 +1,2 @@
 # [Codecov](https://codecov.io) Python Example
-[![codecov](https://codecov.io/github/codecov/example-python-codecov/branch/main/graph/badge.svg?token=tkq655ROg3)](https://app.codecov.io/github/codecov/example-python-codecov)
+[![codecov](https://codecov.io/gh/Atlas0524/python-codecov/branch/main/graph/badge.svg?token=N4GYZ6I6W0)](https://codecov.io/gh/Atlas0524/python-codecov)
