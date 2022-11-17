@@ -4,3 +4,8 @@ profiling:
 
 comment:
   show_critical_paths: true
+
+coverage:
+  range: 60..85
+  round: down
+  precision: 2
